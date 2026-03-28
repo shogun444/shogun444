@@ -18,16 +18,16 @@
 ## Tech Stack
 
 ### Frontend
-- React, Next.js, TypeScript  
-- Tailwind CSS, Framer Motion  
+- ⚛️ React, Next.js, TypeScript  
+- 🎨 Tailwind CSS, Framer Motion  
 
 ### Backend
-- Node.js, Express  
-- Prisma, MongoDB  
+- 🟢 Node.js, Express  
+- 🗄️ Prisma, MongoDB  
 
 ### DevOps & Tools
-- Docker, GitHub Actions (CI/CD)  
-- Vercel, Git  
+- 🐳 Docker, GitHub Actions (CI/CD)  
+- ☁️ Vercel, Git  
 
 ---
 
