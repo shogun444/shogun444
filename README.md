@@ -1,99 +1,132 @@
 # Sayandip Roy
 
 <p align="center">
-  <strong>Full-Stack Developer • Open Source Contributor • Building real-world apps</strong>
+  <b>Full-Stack Developer</b> • <b>Open Source Contributor</b> • <b>Systems-Oriented Builder</b>
+</p>
+
+<p align="center">
+  <i>Building scalable, production-grade applications with a focus on performance, reliability, and real-world impact.</i>
 </p>
 
 ---
 
-## About Me
+## Core Identity
 
-- Building production-ready fullstack applications  
-- Focused on Next.js, TypeScript, and backend systems  
-- Contributing to Drips Wave (Stellar Ecosystem)  
-- Goal: Fullstack Developer → AI Integration Engineer  
+- Full-stack developer with a backend-first mindset  
+- Strong focus on **scalability, clean architecture, and performance**  
+- Actively contributing to **open-source (Stellar ecosystem)**  
+- Transitioning toward **AI-powered product development**
 
 ---
 
 ## Tech Stack
 
-### Frontend
-- ⚛️ React, Next.js, TypeScript  
-- 🎨 Tailwind CSS, Framer Motion  
+### Frontend Engineering
+- React (Advanced Patterns)
+- Next.js (App Router, SSR, Server Actions)
+- TypeScript (Strict mode, type-safe architecture)
+- Tailwind CSS (Design systems)
+- Framer Motion (UI dynamics)
 
-### Backend
-- 🟢 Node.js, Express  
-- 🗄️ Prisma, MongoDB  
+### Backend Systems
+- Node.js (Event-driven architecture)
+- Express (REST APIs, middleware pipelines)
+- Prisma (ORM, schema design)
+- MongoDB (Data modeling, indexing)
 
-### DevOps & Tools
-- 🐳 Docker, GitHub Actions (CI/CD)  
-- ☁️ Vercel, Git  
-
----
-
-## Featured Projects
-
-### Muzer — Music Web App  
-https://muzer-taupe.vercel.app/
-
-- Responsive UI with modern React architecture  
-- Smooth UX with optimized rendering  
-- Performance-focused design  
+### DevOps & Tooling
+- Docker (Containerization)
+- GitHub Actions (CI/CD pipelines)
+- Vercel (Deployment, edge optimization)
+- Git (Version control, workflow strategies)
 
 ---
 
-### Movie App  
-https://movie-database-1oyk.vercel.app/
+## Selected Projects
 
-- Real-time search with API integration  
-- Clean UI with efficient state handling  
-- Optimized rendering  
+### Muzer — Music Streaming Interface  
+**Live:** https://muzer-taupe.vercel.app/
+
+- Architected a responsive, component-driven UI  
+- Optimized rendering to reduce unnecessary re-renders  
+- Focused on UX smoothness and performance consistency  
+
+---
+
+### Movie Discovery Platform  
+**Live:** https://movie-database-1oyk.vercel.app/
+
+- Implemented real-time search with API-driven data  
+- Designed efficient state management for fast UI updates  
+- Built clean, minimal interface with performance focus  
 
 ---
 
 ### AI Resume Builder  
-https://resume-builder-ai-one.vercel.app/
+**Live:** https://resume-builder-ai-one.vercel.app/
 
-- AI-powered resume generation  
-- Dynamic form system  
-- API-based AI workflow  
-
----
-
-## Open Source
-
-- Contributor — Drips Wave (Stellar Ecosystem)  
-- Working on:
-  - CI/CD pipelines (GitHub Actions)  
-  - Frontend performance improvements  
-  - Backend reliability  
+- Integrated AI-driven content generation workflows  
+- Designed dynamic, schema-driven form system  
+- Structured backend communication for scalable AI usage  
 
 ---
 
-## GitHub Stats
+## Open Source Work
 
-![Stats](https://github-readme-stats.vercel.app/api?username=shogun444&show_icons=true&theme=radical&count_private=true)
+**Contributor — Drips Wave (Stellar Ecosystem)**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shogun444&layout=compact&theme=radical)
+Key Contributions:
+- CI/CD pipeline improvements (GitHub Actions)
+- Frontend performance optimization
+- Backend stability and reliability enhancements
+
+---
+
+## Engineering Philosophy
+
+- Prefer **clarity over cleverness**
+- Build systems that are **observable and debuggable**
+- Optimize only where it **actually matters**
+- Write code that scales with **teams, not just features**
 
 ---
 
 ## Current Focus
 
-- Building real-world fullstack projects  
-- Writing clean, maintainable code  
-- Learning system design & scalability  
+- System design & backend scalability  
+- Advanced Next.js patterns  
+- AI integration in full-stack applications  
+- Production-grade architecture  
+
+---
+
+## GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shogun444&show_icons=true&theme=radical&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shogun444&layout=compact&theme=radical" />
+</p>
 
 ---
 
 ## Opportunities
 
-- Fullstack Developer roles  
-- Freelance / contract work  
-- Open source collaborations  
+Open to:
+- Full-stack developer roles  
+- High-impact freelance work  
+- Serious open-source collaborations  
 
 ---
 
 ## Contact
 
 - GitHub: https://github.com/shogun444
+
+---
+
+<p align="center">
+  <i>“I don’t just build apps. I build systems that don’t fall apart.”</i>
+</p>
