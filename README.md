@@ -1,76 +1,99 @@
-# 👋 Hi, I’m Sayandip Roy
+# Sayandip Roy
 
-🚀 Full-Stack Developer focused on building production-ready web apps with modern tooling.
-
-- ⚡ Currently working on **Open Source (Drips Wave)** & CI/CD pipelines  
-- 🧠 Strong focus on **Next.js, TypeScript, Backend Systems**  
-- 🎯 Goal: Become a **job-ready fullstack developer + AI integration engineer**
+<p align="center">
+  <strong>Full-Stack Developer • Open Source Contributor • Building real-world apps</strong>
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## About Me
 
-**Frontend**
-- React, Next.js, TypeScript
-- Tailwind CSS, Framer Motion
-
-**Backend**
-- Node.js, Express
-- Prisma, MongoDB
-
-**DevOps & Tools**
-- Docker, GitHub Actions (CI/CD)
-- Vercel, Git
+- Building production-ready fullstack applications  
+- Focused on Next.js, TypeScript, and backend systems  
+- Contributing to Drips Wave (Stellar Ecosystem)  
+- Goal: Fullstack Developer → AI Integration Engineer  
 
 ---
 
-## 🚀 Projects
+## Tech Stack
 
-### 🎵 Muzer (Music Web App)
-🔗 https://muzer-taupe.vercel.app/
+### Frontend
+- React, Next.js, TypeScript  
+- Tailwind CSS, Framer Motion  
 
-- Built using React + modern UI architecture  
-- Dynamic UI rendering and responsive design  
-- Focus on performance and smooth UX  
+### Backend
+- Node.js, Express  
+- Prisma, MongoDB  
 
----
-
-### 🎬 Movie App
-🔗 https://movie-database-1oyk.vercel.app/
-
-- Fetches and displays movie data via API  
-- Search functionality with real-time updates  
-- Clean UI with optimized rendering  
+### DevOps & Tools
+- Docker, GitHub Actions (CI/CD)  
+- Vercel, Git  
 
 ---
 
-### 🤖 Resume Builder AI
-🔗 https://resume-builder-ai-one.vercel.app/
+## Featured Projects
+
+### Muzer — Music Web App  
+https://muzer-taupe.vercel.app/
+
+- Responsive UI with modern React architecture  
+- Smooth UX with optimized rendering  
+- Performance-focused design  
+
+---
+
+### Movie App  
+https://movie-database-1oyk.vercel.app/
+
+- Real-time search with API integration  
+- Clean UI with efficient state handling  
+- Optimized rendering  
+
+---
+
+### AI Resume Builder  
+https://resume-builder-ai-one.vercel.app/
 
 - AI-powered resume generation  
-- Dynamic form handling and structured output  
-- Integrated API-based AI workflow  
+- Dynamic form system  
+- API-based AI workflow  
 
 ---
 
-## 🌍 Open Source
+## Open Source
 
-- Contributing to **Stellar Wave Program (Drips Wave)**
+- Contributor — Drips Wave (Stellar Ecosystem)  
 - Working on:
-  - CI/CD pipelines (GitHub Actions)
-  - Frontend + backend improvements
+  - CI/CD pipelines (GitHub Actions)  
+  - Frontend performance improvements  
+  - Backend reliability  
 
 ---
 
-## 📈 GitHub Stats
-![Sayandip Roy GitHub Stats](https://github-readme-stats.vercel.app/api?username=shogun444&show_icons=true&theme=radical&count_private=true)
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=shogun444&show_icons=true&theme=radical&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shogun444&layout=compact&theme=radical)
 
 ---
 
-## ⚡ Current Focus
+## Current Focus
 
-- Building full-stack apps with real-world features  
-- Contributing to open source consistently  
-- Learning system design + scalable architecture  
+- Building real-world fullstack projects  
+- Writing clean, maintainable code  
+- Learning system design & scalability  
+
+---
+
+## Opportunities
+
+- Fullstack Developer roles  
+- Freelance / contract work  
+- Open source collaborations  
+
+---
+
+## Contact
+
+- GitHub: https://github.com/shogun444
