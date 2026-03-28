@@ -1,106 +1,83 @@
-# Sayandip Roy
+# Hi 👋, I'm Sayandip Roy
 
 <p align="center">
-  <b>Full-Stack Developer</b> • <b>Open Source Contributor</b> • <b>Systems-Oriented Builder</b>
+  <b>Full-Stack Developer</b> • <b>Open Source Contributor</b> • <b>Systems Builder</b>
 </p>
 
 <p align="center">
-  <i>Building scalable, production-grade applications with a focus on performance, reliability, and real-world impact.</i>
+  <i>Building scalable, production-grade applications with performance and reliability at the core.</i>
 </p>
 
 ---
 
-## Core Identity
+## About Me
 
-- Full-stack developer with a backend-first mindset  
-- Strong focus on **scalability, clean architecture, and performance**  
-- Actively contributing to **open-source (Stellar ecosystem)**  
-- Transitioning toward **AI-powered product development**
+- Building real-world fullstack systems  
+- Focused on performance, scalability, and clean architecture  
+- Contributor to **Stellar ecosystem (Drips Wave)**  
+- Targeting: **Fullstack Developer → AI Integration Engineer**
 
 ---
 
 ## Tech Stack
 
-### Frontend Engineering
-- React (Advanced Patterns)
-- Next.js (App Router, SSR, Server Actions)
-- TypeScript (Strict mode, type-safe architecture)
-- Tailwind CSS (Design systems)
-- Framer Motion (UI dynamics)
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" />
+</p>
 
-### Backend Systems
-- Node.js (Event-driven architecture)
-- Express (REST APIs, middleware pipelines)
-- Prisma (ORM, schema design)
-- MongoDB (Data modeling, indexing)
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb" />
+</p>
 
-### DevOps & Tooling
-- Docker (Containerization)
-- GitHub Actions (CI/CD pipelines)
-- Vercel (Deployment, edge optimization)
-- Git (Version control, workflow strategies)
+### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,git" />
+</p>
 
 ---
 
-## Selected Projects
+## Projects
 
-### Muzer — Music Streaming Interface  
-**Live:** https://muzer-taupe.vercel.app/
+### Muzer — Music Web App  
+🔗 https://muzer-taupe.vercel.app/
 
-- Architected a responsive, component-driven UI  
-- Optimized rendering to reduce unnecessary re-renders  
-- Focused on UX smoothness and performance consistency  
+- Smooth, responsive UI  
+- Optimized rendering & performance  
+- Clean component architecture  
 
 ---
 
-### Movie Discovery Platform  
-**Live:** https://movie-database-1oyk.vercel.app/
+### Movie App  
+🔗 https://movie-database-1oyk.vercel.app/
 
-- Implemented real-time search with API-driven data  
-- Designed efficient state management for fast UI updates  
-- Built clean, minimal interface with performance focus  
+- Real-time search with API integration  
+- Efficient state handling  
+- Clean and minimal UI  
 
 ---
 
 ### AI Resume Builder  
-**Live:** https://resume-builder-ai-one.vercel.app/
+🔗 https://resume-builder-ai-one.vercel.app/
 
-- Integrated AI-driven content generation workflows  
-- Designed dynamic, schema-driven form system  
-- Structured backend communication for scalable AI usage  
-
----
-
-## Open Source Work
-
-**Contributor — Drips Wave (Stellar Ecosystem)**
-
-Key Contributions:
-- CI/CD pipeline improvements (GitHub Actions)
-- Frontend performance optimization
-- Backend stability and reliability enhancements
+- AI-powered resume generation  
+- Dynamic form system  
+- Scalable API workflow  
 
 ---
 
-## Engineering Philosophy
+## Open Source
 
-- Prefer **clarity over cleverness**
-- Build systems that are **observable and debuggable**
-- Optimize only where it **actually matters**
-- Write code that scales with **teams, not just features**
-
----
-
-## Current Focus
-
-- System design & backend scalability  
-- Advanced Next.js patterns  
-- AI integration in full-stack applications  
-- Production-grade architecture  
+- Contributor — Drips Wave (Stellar Ecosystem)  
+- Contributions:
+  - CI/CD pipelines  
+  - Performance optimization  
+  - Backend reliability  
 
 ---
 
-## GitHub Metrics
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shogun444&show_icons=true&theme=radical&count_private=true" />
@@ -112,21 +89,29 @@ Key Contributions:
 
 ---
 
-## Opportunities
+## Current Focus
 
-Open to:
-- Full-stack developer roles  
-- High-impact freelance work  
-- Serious open-source collaborations  
+- System design  
+- Scalable backend systems  
+- Advanced Next.js  
+- AI integrations  
 
 ---
 
-## Contact
+## Opportunities
+
+- Fullstack roles  
+- Freelance work  
+- Open source collaborations  
+
+---
+
+## Connect
 
 - GitHub: https://github.com/shogun444
 
 ---
 
 <p align="center">
-  <i>“I don’t just build apps. I build systems that don’t fall apart.”</i>
+  <i>Build fast. Scale smart. Break nothing.</i>
 </p>
