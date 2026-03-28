@@ -14,7 +14,6 @@
 
 - Building real-world fullstack systems  
 - Focused on performance, scalability, and clean architecture  
-- Contributor to **Stellar ecosystem (Drips Wave)**  
 - Targeting: **Fullstack Developer → AI Integration Engineer**
 
 ---
