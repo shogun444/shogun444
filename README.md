@@ -68,8 +68,7 @@
 
 ## Open Source
 
-- Contributor — Drips Wave (Stellar Ecosystem)  
-- Contributions:
+- Open Source Contributions:
   - CI/CD pipelines  
   - Performance optimization  
   - Backend reliability  
