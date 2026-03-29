@@ -37,55 +37,6 @@
 
 ---
 
-## Projects
-
-### Muzer — Music Web App  
-🔗 https://muzer-taupe.vercel.app/
-
-- Smooth, responsive UI  
-- Optimized rendering & performance  
-- Clean component architecture  
-
----
-
-### Movie App  
-🔗 https://movie-database-1oyk.vercel.app/
-
-- Real-time search with API integration  
-- Efficient state handling  
-- Clean and minimal UI  
-
----
-
-### AI Resume Builder  
-🔗 https://resume-builder-ai-one.vercel.app/
-
-- AI-powered resume generation  
-- Dynamic form system  
-- Scalable API workflow  
-
----
-
-## Open Source
-
-- Open Source Contributions:
-  - CI/CD pipelines  
-  - Performance optimization  
-  - Backend reliability  
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shogun444&show_icons=true&theme=radical&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shogun444&layout=compact&theme=radical" />
-</p>
-
----
 
 ## Current Focus
 
@@ -104,9 +55,6 @@
 
 ---
 
-## Connect
-
-- GitHub: https://github.com/shogun444
 
 ---
 
