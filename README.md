@@ -1,63 +1,21 @@
-# Hi 👋, I'm Sayandip Roy
+# Hi, I'm Sayandip 👋
 
-<p align="center">
-  <b>Full-Stack Developer</b> • <b>Open Source Contributor</b> • <b>Systems Builder</b>
-</p>
+**Full-Stack Developer • Open Source Contributor**
 
-<p align="center">
-  <i>Building scalable, production-grade applications with performance and reliability at the core.</i>
-</p>
+I build production-grade web applications, scalable backend systems, and AI-powered products.
 
----
+### Stack
 
-## About Me
-
-- Building real-world fullstack systems  
-- Focused on performance, scalability, and clean architecture  
-- Targeting: **Fullstack Developer → AI Integration Engineer**
-
----
-
-## Tech Stack
-
-### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express,postgres,prisma,mongodb,docker,githubactions,git" />
 </p>
 
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb" />
-</p>
+### Currently
 
-### DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,git" />
-</p>
-
----
-
-
-## Current Focus
-
-- System design  
-- Scalable backend systems  
-- Advanced Next.js  
-- AI integrations  
-
----
-
-## Opportunities
-
-- Fullstack roles  
-- Freelance work  
-- Open source collaborations  
-
----
-
+Building full-stack systems, exploring AI integrations, and contributing to open source.
 
 ---
 
 <p align="center">
-  <i>Build fast. Scale smart. Break nothing.</i>
+  <i>Build. Ship. Improve.</i>
 </p>
