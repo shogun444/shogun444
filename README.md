@@ -1,21 +1,23 @@
-# Hi, I'm Sayandip 👋
+# Hi, I'm Sayandip Roy 👋
 
-**Full-Stack Developer • Open Source Contributor**
+**Design Engineer • Open Source Contributor**
 
-I build production-grade web applications, scalable backend systems, and AI-powered products.
+I design and build polished, production-ready web experiences.
+
+I work across **UI/UX, frontend, full-stack, and Web3**, with a focus on turning ideas into fast, usable products.
 
 ### Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express,postgres,prisma,mongodb,docker,githubactions,git" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,postgres,docker,git" />
 </p>
 
 ### Currently
 
-Building full-stack systems, exploring AI integrations, and contributing to open source.
+Building products, contributing to open source, and exploring Web3 & AI.
 
 ---
 
 <p align="center">
-  <i>Build. Ship. Improve.</i>
+  <i>Design. Build. Ship.</i>
 </p>
